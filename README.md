@@ -14,7 +14,7 @@ I design, build and run production backends — from architecture and implementa
 
 ## About me
 
-I'm a **Senior Backend Developer at X5 Digital**, working on order-fulfillment services for a retail delivery ecosystem spanning **thousands of stores**. I design backend services, build and maintain microservices, improve critical business workflows, and work on event-driven integrations, reliability and performance.
+I'm a **Senior Backend Developer** focused on production backend systems, distributed services and reliable business workflows. My work includes designing and maintaining microservices, improving critical APIs, implementing event-driven integrations and solving performance and reliability challenges.
 
 Outside my primary role, I've built **cryptocurrency exchange and payment products** and **IVirtual**, a self-hosted AI-agent orchestration platform. Before moving into backend development, I worked extensively with **systems, networking and infrastructure**. That experience shapes how I approach deployment, observability, scaling, recovery and production support.
 
@@ -34,8 +34,8 @@ These are real engineering projects and case studies, rather than tutorial repos
 <tr>
 <td width="50%" valign="top">
 <h3>🛒 Retail Order Fulfillment Backend</h3>
-<p><strong>High-load production systems · X5 Digital</strong></p>
-<p>Backend engineering across thousands of stores. Designed and launched a production service during a monolith-to-microservices transition and improved order-scanning, idempotency and event delivery.</p>
+<p><strong>High-load production systems · Confidential commercial project</strong></p>
+<p>Developed and launched a production backend service during a monolith-to-microservices transition, improving fulfillment workflows, idempotency and reliable event delivery. Client and operational details are intentionally anonymized.</p>
 <p><strong>Focus:</strong> distributed architecture · business consistency · Kafka Outbox</p>
 <a href="case-studies/retail-fulfillment.md"><strong>Read engineering case study →</strong></a>
 </td>
