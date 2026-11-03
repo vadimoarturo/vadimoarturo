@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071b14"/><stop offset=".9" stop-color="#103427"/></linearGradient>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#99ffc7"/><stop offset="1" stop-color="#62df9a"/></linearGradient>
+ <filter id="sh"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#00130b" flood-opacity=".5"/></filter>
+</defs>
+<rect width="800" height="420" fill="url(#bg)"/>
+<circle cx="720" cy="72" r="132" fill="#56db9c" opacity=".07"/>
+<circle cx="660" cy="340" r="190" fill="#56db9c" opacity=".04"/>
+<text x="48" y="62" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="3" fill="#8de7b4">CRYPTO / 01</text>
+<text x="48" y="135" font-family="Arial,sans-serif" font-size="56" letter-spacing="-2" fill="#f6fff9">Exchange.</text>
+<text x="48" y="170" font-family="Arial,sans-serif" font-size="18" fill="#a6cabb">Automated trading and payments</text>
+<rect x="384" y="65" width="350" height="304" rx="22" fill="#102c23" stroke="#367258" filter="url(#sh)"/>
+<text x="414" y="104" font-size="15" font-family="Arial" font-weight="bold" fill="#d4f6df">Exchange crypto</text>
+<rect x="408" y="124" width="302" height="69" rx="12" fill="#18392c" stroke="#305a47"/>
+<circle cx="437" cy="158" r="14" fill="#f7931a"/><text x="432" y="164" font-family="Arial" font-size="17" font-weight="bold" fill="white">₿</text>
+<text x="463" y="153" font-family="Arial" font-size="13" fill="#90bca4">You send</text><text x="463" y="175" font-family="Arial" font-size="20" font-weight="bold" fill="#f3fff7">0.25 BTC</text>
+<circle cx="559" cy="204" r="16" fill="#294b3a" stroke="#4b8c66"/><text x="554" y="210" font-family="Arial" font-size="19" fill="#d8f9e4">↕</text>
+<rect x="408" y="219" width="302" height="69" rx="12" fill="#18392c" stroke="#305a47"/>
+<circle cx="437" cy="253" r="14" fill="#0aa994"/><text x="429" y="259" font-family="Arial" font-size="16" font-weight="bold" fill="white">₮</text>
+<text x="463" y="247" font-family="Arial" font-size="13" fill="#90bca4">You receive</text><text x="463" y="269" font-family="Arial" font-size="20" font-weight="bold" fill="#f3fff7">USDT · TRC20</text>
+<rect x="408" y="306" width="302" height="43" rx="11" fill="url(#a)"/><text x="510" y="333" font-family="Arial" font-weight="bold" font-size="16" fill="#06251a">Continue</text>
+<rect x="48" y="217" width="268" height="1" fill="#426457"/>
+<text x="48" y="256" font-family="Arial" font-size="15" fill="#e8fff0">Live quotes</text><text x="48" y="293" font-family="Arial" font-size="15" fill="#e8fff0">Order automation</text><text x="48" y="330" font-family="Arial" font-size="15" fill="#e8fff0">Provider integrations</text>
+<path d="M34 249h6m-6 37h6m-6 37h6" stroke="#72e9a4" stroke-width="3" stroke-linecap="round"/>
+</svg>
