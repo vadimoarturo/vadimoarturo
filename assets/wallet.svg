@@ -11,13 +11,13 @@
 <rect x="363" y="70" width="381" height="295" rx="18" fill="#09251c" filter="url(#sh)"/>
 <circle cx="390" cy="96" r="5" fill="#4c795f"/><circle cx="407" cy="96" r="5" fill="#4c795f"/><circle cx="424" cy="96" r="5" fill="#4c795f"/>
 <text x="390" y="133" font-family="Arial" font-size="17" fill="#eaffef">Overview</text>
-<text x="390" y="168" font-family="Arial" font-size="12" fill="#82b89b">Total processed</text>
-<text x="390" y="202" font-family="Arial" font-size="30" font-weight="bold" fill="#ebfff3">$48,800</text>
+<text x="390" y="168" font-family="Arial" font-size="12" fill="#82b89b">Payment overview</text>
+<text x="390" y="202" font-family="Arial" font-size="30" font-weight="bold" fill="#ebfff3">Transactions</text>
 <rect x="390" y="227" width="150" height="107" rx="12" fill="#154333"/>
 <rect x="554" y="227" width="160" height="107" rx="12" fill="#154333"/>
 <text x="408" y="255" font-family="Arial" font-size="12" fill="#a1d8b8">Invoices</text>
-<text x="408" y="298" font-family="Arial" font-size="28" fill="#eefef4">128</text>
+<text x="408" y="298" font-family="Arial" font-size="28" fill="#eefef4">—</text>
 <text x="573" y="255" font-family="Arial" font-size="12" fill="#a1d8b8">Transactions</text>
-<text x="573" y="298" font-family="Arial" font-size="28" fill="#eefef4">356</text>
+<text x="573" y="298" font-family="Arial" font-size="28" fill="#eefef4">—</text>
 <rect x="554" y="305" width="132" height="12" rx="6" fill="#6be6a2" opacity=".8"/>
 </svg>
