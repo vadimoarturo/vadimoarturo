@@ -1,15 +1,15 @@
 # High-Load Retail Order Fulfillment Backend
 
-**Context:** Production order-fulfillment ecosystem at X5 Digital, spanning thousands of retail stores.  
+**Context:** A high-load retail order-fulfillment environment (anonymized commercial experience).  
 **Role:** Senior Backend Developer  
 **Areas:** Backend architecture, microservices, order workflows, event-driven integration and production support.  
-**Code:** Employer-owned and not published.
+**Code:** Confidential and not published.
 
 ## Business and engineering context
 
 An order-fulfillment backend coordinates inventory and picker actions, product scanning, substitutions, order-state changes and asynchronous downstream services. Performance and correctness matter when users operate with unreliable connections and request retries.
 
-This case study describes my engineering contributions **at a high level**, without releasing internal system details or source code.
+This case study describes engineering contributions **at a high level**, with the organization and identifiable operational details intentionally omitted.
 
 ## My contribution
 
