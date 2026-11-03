@@ -34,7 +34,7 @@ These are real engineering projects and case studies, rather than tutorial repos
 <tr>
 <td width="50%" valign="top">
 <h3>🛒 Retail Order Fulfillment Backend</h3>
-<p><strong>High-load production systems · Confidential commercial project</strong></p>
+<p><strong>High-load production systems · Commercial Project</strong></p>
 <p>Developed and launched a production backend service during a monolith-to-microservices transition, improving fulfillment workflows, idempotency and reliable event delivery. Client and operational details are intentionally anonymized.</p>
 <p><strong>Focus:</strong> distributed architecture · business consistency · Kafka Outbox</p>
 <a href="case-studies/retail-fulfillment.md"><strong>Read engineering case study →</strong></a>
