@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08221a"/><stop offset="1" stop-color="#0f3627"/></linearGradient><filter id="sh"><feDropShadow dy="10" stdDeviation="11" flood-color="#00130a" flood-opacity=".55"/></filter></defs>
+<rect width="800" height="420" fill="url(#bg)"/>
+<circle cx="690" cy="300" r="188" fill="#59fbb3" opacity=".05"/>
+<text x="48" y="62" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="3" fill="#84dbae">MOBILE / 03</text>
+<text x="48" y="136" font-family="Arial,sans-serif" font-size="54" letter-spacing="-2" fill="#f8fff9">Mini App.</text>
+<text x="48" y="172" font-family="Arial,sans-serif" font-size="18" fill="#b2d6c2">Wallet and exchange on mobile</text>
+<text x="48" y="253" font-family="Arial" font-size="16" fill="#ddffeb">Balances</text><text x="48" y="290" font-family="Arial" font-size="16" fill="#ddffeb">Exchange flows</text><text x="48" y="327" font-family="Arial" font-size="16" fill="#ddffeb">Order tracking</text>
+<rect x="417" y="58" width="174" height="320" rx="26" fill="#061a14" stroke="#5b8870" stroke-width="3" filter="url(#sh)"/>
+<rect x="430" y="83" width="148" height="271" rx="13" fill="#0f2d21"/>
+<rect x="467" y="65" width="72" height="8" rx="4" fill="#35594a"/>
+<text x="445" y="112" font-family="Arial" font-size="15" font-weight="bold" fill="#e7fdf0">My wallet</text>
+<text x="445" y="151" font-family="Arial" font-size="12" fill="#8db9a0">Total balance</text>
+<text x="445" y="187" font-family="Arial" font-size="27" fill="#f2fff6">$8,426</text>
+<rect x="445" y="209" width="116" height="40" rx="9" fill="#65e9a0"/>
+<text x="473" y="234" font-family="Arial" font-weight="bold" font-size="13" fill="#072619">Exchange</text>
+<rect x="445" y="268" width="116" height="26" rx="7" fill="#244e3a"/><rect x="445" y="303" width="116" height="26" rx="7" fill="#244e3a"/>
+<rect x="603" y="108" width="153" height="263" rx="24" fill="#051910" stroke="#4d7d63" stroke-width="3" filter="url(#sh)"/>
+<rect x="615" y="137" width="128" height="212" rx="12" fill="#102f22"/>
+<text x="626" y="166" font-family="Arial" font-size="14" font-weight="bold" fill="#effff4">Exchange</text>
+<rect x="626" y="183" width="103" height="45" rx="9" fill="#224c39"/><rect x="626" y="237" width="103" height="45" rx="9" fill="#224c39"/>
+<rect x="626" y="298" width="103" height="34" rx="8" fill="#66e89e"/><text x="646" y="320" font-family="Arial" font-weight="bold" font-size="12" fill="#062119">Continue</text>
+</svg>
