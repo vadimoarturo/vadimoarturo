@@ -1,6 +1,5 @@
 <div align="center">
 
-# Vadim Burukhin
 ### Senior Backend Developer · Distributed Systems · Fintech · AI Engineering
 
 **Node.js · TypeScript · NestJS · Go · PostgreSQL · MongoDB · Redis · Kafka**
