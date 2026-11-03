@@ -1,9 +1,9 @@
-# High-Load Retail Order Fulfillment Backend
+# Commercial Project
 
-**Context:** A high-load retail order-fulfillment environment (anonymized commercial experience).  
+**Context:** Commercial Project.  
 **Role:** Senior Backend Developer  
 **Areas:** Backend architecture, microservices, order workflows, event-driven integration and production support.  
-**Code:** Confidential and not published.
+**Code:** Private.
 
 ## Business and engineering context
 
