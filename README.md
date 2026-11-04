@@ -1,68 +1,104 @@
-# Vadim Burukhin
+<h1 align="center">Hi, I'm Vadim 👋</h1>
 
-### Senior FullStack Developer (Node.js / Go | NestJS / Next.js)
-
-I build production backends, integrations and complete web products. My focus is reliable business logic, distributed systems and getting software into production.
-
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="case-studies/retail-fulfillment.md"><img src="assets/commercial.svg" alt="Commercial Project — Backend" width="100%"></a>
-<h3>Commercial Project</h3>
-<p>High-load backend · microservices · event-driven workflows · idempotency.</p>
-<a href="case-studies/retail-fulfillment.md">View case study →</a>
-</td>
-<td width="50%" valign="top">
-<a href="case-studies/crypto-exchange.md"><img src="assets/exchange.svg" alt="Automated Crypto Exchange Platform" width="100%"></a>
-<h3>Crypto Exchange</h3>
-<p>Automated exchange engine, live quotes, deposits, trades, withdrawals and operator tools.</p>
-<a href="case-studies/crypto-exchange.md">View case study →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="case-studies/crypto-payments.md"><img src="assets/wallet.svg" alt="Crypto Wallet and Payment Platform" width="100%"></a>
-<h3>Crypto Wallet &amp; Payments</h3>
-<p>Merchant dashboard, crypto invoices, payment flows and transaction tracking.</p>
-<a href="case-studies/crypto-payments.md">View case study →</a>
-</td>
-<td width="50%" valign="top">
-<a href="case-studies/ivirtual.md"><img src="assets/ivirtual.svg" alt="IVirtual Agent Orchestration Platform" width="100%"></a>
-<h3>IVirtual</h3>
-<p>Self-hosted agent orchestration, model integrations, MCP tools and retrieval.</p>
-<a href="case-studies/ivirtual.md">View case study →</a>
-</td>
-</tr>
-</table>
-
-### Tech Stack
-
-**Backend & APIs**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,go,express&theme=dark" alt="Node.js, TypeScript, NestJS, Go, Express" />
+<p align="center">
+  <a href="https://github.com/vadimoarturo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=Senior+FullStack+Developer;Node.js+%2F+Go+%7C+NestJS+%2F+Next.js;Microservices+%26+Distributed+Systems;AI+Agents+%26+MCP+Integrations" alt="Senior FullStack Developer — Node.js, Go, NestJS, Next.js" />
+  </a>
 </p>
 
-`REST` · `gRPC` · `WebSockets`
-
-**Databases & Messaging**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,kafka,rabbitmq&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Kafka, RabbitMQ" />
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~014914b157aacf24f3">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" />
+  </a>
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio projects" />
+  </a>
+  <a href="https://github.com/vadimoarturo">
+    <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vadimoarturo&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
 </p>
-
-`NATS` · `BullMQ` · `pgvector`
-
-**Frontend & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,linux,gitlab,grafana&theme=dark" alt="React, Next.js, Docker, Linux, GitLab, Grafana" />
-</p>
-
-`CI/CD` · `Prometheus` · `Git`
 
 ---
 
-*Selected commercial source code is private. The linked case studies describe the work without publishing proprietary implementations.*
+### About
+
+```yaml
+role:     Senior FullStack Developer
+stack:    Node.js / Go | NestJS / Next.js
+focus:    Backend architecture, APIs, distributed systems
+building: AI agents, fintech platforms, SaaS products
+```
+
+---
+
+### Tech Stack
+
+<p align="center"><strong>Backend & APIs</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,go,express&theme=dark" alt="Node.js, TypeScript, NestJS, Go, Express" />
+</p>
+<p align="center"><code>REST APIs</code> · <code>gRPC</code> · <code>WebSockets</code></p>
+
+<p align="center"><strong>Databases & Messaging</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,kafka,rabbitmq&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Kafka, RabbitMQ" />
+</p>
+<p align="center"><code>NATS</code> · <code>BullMQ</code> · <code>pgvector</code></p>
+
+<p align="center"><strong>Frontend & DevOps</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,linux,gitlab,grafana&theme=dark" alt="React, Next.js, Tailwind CSS, Docker, Linux, GitLab, Grafana" />
+</p>
+<p align="center"><code>CI/CD</code> · <code>Prometheus</code> · <code>Docker Compose</code></p>
+
+<p align="center"><strong>AI Engineering</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-202A44?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-202A44?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-202A44?style=flat-square" alt="LLM Integrations" />
+  <img src="https://img.shields.io/badge/RAG-202A44?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Tool_Calling-202A44?style=flat-square" alt="Tool Calling" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Tech Stack | Highlights |
+|:--|:--|:--|
+| 🏗️ **[Commercial Project](case-studies/retail-fulfillment.md)** | NestJS · Go · MongoDB · gRPC · Kafka | High-load microservices, idempotency, reliable event processing |
+| 💱 **[Crypto Exchange](case-studies/crypto-exchange.md)** | TypeScript · NestJS · PostgreSQL · Redis · NATS | Automated exchange engine, market rates, trading and withdrawals |
+| 💳 **[Crypto Wallet & Payments](case-studies/crypto-payments.md)** | Node.js · React · Next.js | Crypto invoices, wallet interfaces, payment flows and transaction tracking |
+| 🤖 **[IVirtual — AI Agent Platform](case-studies/ivirtual.md)** | Go · React · PostgreSQL · pgvector · MCP | Agent orchestration, LLM tools, document retrieval and execution recovery |
+
+<sub>Technical case studies are public. Commercial source code and private integrations are not.</sub>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vadimoarturo&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vadimoarturo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimoarturo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used public repository languages" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadimoarturo&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building reliable backends, AI-powered tools and products that ship.</b>
+</p>
