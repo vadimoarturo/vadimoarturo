@@ -23,12 +23,39 @@
 
 ### About
 
+I'm a Senior Full-Stack Developer specializing in backend engineering, AI agents, business automation, and scalable web applications.
+
+I help businesses build reliable software, automate repetitive processes, integrate AI into existing products, and fix technical problems that slow their teams down.
+
 ```yaml
-role:     Senior FullStack Developer
+role:     Senior Full-Stack Developer
 stack:    Node.js / Go | NestJS / Next.js
-focus:    Backend architecture, APIs, distributed systems
-building: AI agents, fintech platforms, SaaS products
+focus:    AI Agents, Business Automation, Backend Architecture
+building: AI-powered SaaS, Fintech & Scalable Applications
 ```
+
+### What I Can Help You With
+
+| Area | What I deliver |
+|:--|:--|
+| AI Agents & Automation | AI assistants, multi-agent workflows, MCP servers, RAG, LLM integrations, business process automation |
+| Backend Development | REST APIs, microservices, WebSockets, gRPC, Kafka, background jobs, complex business logic |
+| Full-Stack Applications | SaaS platforms, dashboards, customer portals, payment systems, responsive React/Next.js interfaces |
+| API & System Integrations | Third-party APIs, webhooks, authentication, data synchronization, payment integrations |
+| Bug Fixing & Optimization | Production troubleshooting, performance improvements, reliable workflows, refactoring |
+| DevOps & Deployment | Docker, CI/CD, Kubernetes, monitoring, production infrastructure |
+
+### Selected Experience
+
+- <b>IVirtual — AI Agent Platform:</b> Built an AI agent orchestration platform with Go, React, PostgreSQL and pgvector, including multiple providers, MCP tools, retrieval, approvals, permissions and execution recovery.
+- <b>Automated Cryptocurrency Exchange:</b> Developed an exchange platform from scratch with order automation, live rates, external integrations, transaction monitoring, admin tools and customer interfaces.
+- <b>Commercial Backend Systems:</b> Developed high-load distributed services, Kafka/Transactional Outbox workflows, and backend reliability and performance improvements.
+
+### How I Work
+
+I take ownership from understanding the problem and designing a practical solution through implementation, testing, deployment and support. I use Claude Code and Codex daily to accelerate development while personally reviewing architecture, business logic, security and results.
+
+Whether you need a small bug fixed, an API integrated, an AI workflow automated, or a complete application, I focus on software that works reliably in production.
 
 ---
 
@@ -83,8 +110,6 @@ building: AI agents, fintech platforms, SaaS products
 | 🤖 **[IVirtual — AI Agent Platform](case-studies/ivirtual.md)** | Go · React · PostgreSQL · pgvector · MCP | Agent orchestration, LLM tools, document retrieval and execution recovery |
 
 <sub>Technical case studies are public. Commercial source code and private integrations are not.</sub>
-
----
 
 ---
 
