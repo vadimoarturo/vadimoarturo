@@ -1,6 +1,6 @@
 # Vadim Burukhin
 
-**Senior Backend Developer** · Node.js / NestJS / TypeScript / Go
+### Senior FullStack Developer (Node.js / Go | NestJS / Next.js)
 
 I build production backends, integrations and complete web products. My focus is reliable business logic, distributed systems and getting software into production.
 
