@@ -37,17 +37,31 @@ I build production backends, integrations and complete web products. My focus is
 </tr>
 </table>
 
-### What I work with
+### Tech Stack
 
-**Backend:** Node.js · NestJS · TypeScript · Go · REST · gRPC  
-**Data & messaging:** PostgreSQL · MongoDB · Redis · Kafka · NATS · RabbitMQ · BullMQ  
-**Full-stack & delivery:** React · Next.js · Docker · CI/CD · Linux · Grafana
+**Backend & APIs**
 
-### A bit about me
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,go,express&theme=dark" alt="Node.js, TypeScript, NestJS, Go, Express" />
+</p>
 
-I work across architecture, implementation, testing and deployment. My background in systems and network engineering helps me approach applications as complete production systems — not just code.
+`REST` · `gRPC` · `WebSockets`
 
-[Infrastructure automation](https://github.com/vadimoarturo/Autocheck-WSR-NSA) · [JavaScript UI project](https://github.com/vadimoarturo/Excel-NativeJs)
+**Databases & Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,kafka,rabbitmq&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Kafka, RabbitMQ" />
+</p>
+
+`NATS` · `BullMQ` · `pgvector`
+
+**Frontend & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,linux,gitlab,grafana&theme=dark" alt="React, Next.js, Docker, Linux, GitLab, Grafana" />
+</p>
+
+`CI/CD` · `Prometheus` · `Git`
 
 ---
 
