@@ -33,16 +33,31 @@ I improved substitution and alternative-product logic and investigated productio
 
 ```mermaid
 flowchart LR
-    Client[Store Fulfillment Clients] --> API[Backend APIs]
-    API --> Domain[Order Services]
-    Domain --> Data[(Sharded MongoDB)]
-    Domain --> Outbox[(Transactional Outbox)]
-    Outbox --> Kafka[Kafka Events]
-    Domain --> RPC[gRPC Integrations]
-    API --> Observability[Logs / Metrics / Monitoring]
+    Client["Client Applications"] --> Gateway["Backend API"]
+
+    subgraph Microservices["Microservices"]
+        Nest["NestJS · TypeScript"]
+        Go["Go Service"]
+        Worker["Async Workers"]
+    end
+
+    Gateway --> Nest
+    Nest <-->|"gRPC"| Go
+    Nest --> Mongo[("Sharded MongoDB")]
+    Nest --> Outbox[("Transactional Outbox")]
+    Outbox --> Publisher["Outbox Publisher"]
+    Publisher --> Kafka[("Kafka")]
+    Kafka -->|"Domain Events"| Worker
+    Worker -->|"Event Processing"| Nest
+
+    Nest -.-> Observability["Logs · Metrics · Monitoring"]
+    Go -.-> Observability
+    Worker -.-> Observability
 ```
 
-*Illustrative components and relationships; not a private deployment diagram.*
+**gRPC** provides synchronous service-to-service communication; **Kafka** handles asynchronous domain events. The **Transactional Outbox** pattern helps publish events reliably alongside business-data changes.
+
+*Conceptual representation of a NestJS/Go microservice architecture, not an exact production deployment diagram.*
 
 ## Engineering principles demonstrated
 
