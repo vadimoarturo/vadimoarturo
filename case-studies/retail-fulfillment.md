@@ -7,7 +7,7 @@
 
 ## Business and engineering context
 
-An order-fulfillment backend coordinates inventory and picker actions, product scanning, substitutions, order-state changes and asynchronous downstream services. Performance and correctness matter when users operate with unreliable connections and request retries.
+An order-fulfillment backend coordinates inventory operations, product scanning, substitutions, order-state changes and asynchronous downstream services. Performance and correctness matter when users operate with unreliable connections and request retries.
 
 This case study describes engineering contributions **at a high level**, with the organization and identifiable operational details intentionally omitted.
 
@@ -34,7 +34,7 @@ I improved substitution and alternative-product logic and investigated productio
 ```mermaid
 flowchart LR
     Client[Store Fulfillment Clients] --> API[Backend APIs]
-    API --> Domain[Order / Picker Services]
+    API --> Domain[Order Services]
     Domain --> Data[(Sharded MongoDB)]
     Domain --> Outbox[(Transactional Outbox)]
     Outbox --> Kafka[Kafka Events]
