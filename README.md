@@ -48,10 +48,16 @@ building: AI agents, fintech platforms, SaaS products
 </p>
 <p align="center"><code>NATS</code> · <code>BullMQ</code> · <code>pgvector</code></p>
 
-<p align="center"><strong>Frontend & DevOps</strong></p>
+<p align="center"><strong>Frontend</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,linux,gitlab,grafana&theme=dark" alt="React, Next.js, Tailwind CSS, Docker, Linux, GitLab, Grafana" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
+</p>
+
+<p align="center"><strong>DevOps & Infrastructure</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,gitlab,grafana&theme=dark" alt="Docker, Linux, GitLab, Grafana" />
 </p>
 <p align="center"><code>CI/CD</code> · <code>Prometheus</code> · <code>Docker Compose</code></p>
 
