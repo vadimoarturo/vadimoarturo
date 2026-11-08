@@ -1,12 +1,16 @@
-# Crypto Wallet & Payment Experiences
+# Crypto Wallet Payment Platform
 
-**Scope:** Cryptocurrency wallet-oriented interfaces and invoice/payment workflows across customer applications.  
-**Contribution:** Backend integrations, transaction status flows and frontend development.  
+[![Project preview](../assets/portfolio/crypto-wallet-cover.jpg)](../portfolio/Crypto-Wallet-EN.pdf)
+
+**[View the full visual presentation](../portfolio/Crypto-Wallet-EN.pdf)** · [Back to portfolio](../README.md)
+
+**Scope:** A merchant payment platform for businesses and creators.  
+**Contribution:** Architecture, backend business logic, frontend, payment integrations and UI/UX.  
 **Source:** Private.
 
 ## Product overview
 
-Cryptocurrency payment and wallet experiences built around invoice-style flows, chain-specific payment details, customer-facing status updates and operational visibility.
+A crypto payment platform built around a merchant dashboard, payment links, invoices, transaction history and account settings. I independently built the product and connected its checkout interfaces with backend services and payment APIs.
 
 ## Customer payment journey
 
@@ -29,11 +33,13 @@ flowchart LR
 
 ## Product surfaces
 
-- Cryptocurrency invoice and payment user interface
-- Responsive web application and wallet-oriented user experience
-- Network selection and payment status presentation
-- Mobile-first wallet interfaces, including a Telegram Mini App product
+- Merchant dashboard for managing checkouts and payment requests
+- Payment links, cryptocurrency invoices and checkout interfaces
+- Currency selection and payment status presentation
+- Transaction history and account settings
 - Integration with backend transaction and payment workflows
+
+The separate [Telegram Mini App and bot](telegram-mini-app.md) has its own visual presentation and case study.
 
 ## Engineering considerations
 
@@ -47,4 +53,4 @@ flowchart LR
 
 Node.js, TypeScript, NestJS, React, Next.js and supporting payment integrations.
 
-*This overview presents documented product features without claiming that every screen is a separately deployed payment integration. Provider credentials and user transactions are not public.*
+*The presentation shows the customer and merchant experience. Commercial source code, provider credentials and private integrations are not included.*
